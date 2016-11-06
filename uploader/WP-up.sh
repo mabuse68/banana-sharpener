@@ -40,4 +40,4 @@ exit 0
 
 # Invoke this script either from command line
 # or from an editor, see here-under cases
-# VI: Save your work - :w - ; Invoke script - :! ./WP-push -f % -
+# VI: Save your work - :w - ; Invoke script - :! ./WP-up -f % -
