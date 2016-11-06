@@ -11,7 +11,7 @@ One can invoke the script from any BASH shell (OSX users, please comment the 'pa
 
 While on VI (command mode), script in current directory:
 ```
-:w					# Save your current changes
+:w							# Save your current changes
 :! ./WP-up.sh -f % -s 192.168.1.1	# Invoke the script, upload edited file
 ```
 
